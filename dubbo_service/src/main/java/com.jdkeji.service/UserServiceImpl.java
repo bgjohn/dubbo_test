@@ -11,5 +11,8 @@ public class UserServiceImpl implements UserService {
     public String getName() {
         return "hello dubbo";
     }
+    publi void practice(){
+        return "high my git";
+    }
 
 }
